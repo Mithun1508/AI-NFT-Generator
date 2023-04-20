@@ -1,5 +1,8 @@
 # Alchemy AI NFT Minter Replit Template
 
+
+![Screenshot 2023-04-20 132657](https://user-images.githubusercontent.com/93249038/233299261-8e3b3843-c045-482d-a8b7-283726dfa724.png)
+
 Welcome to the Alchemy AI NFT Minter Replit Template! This is a template built in Next.js that enables developers to create their own NFT minting platform powered by artificial intelligence.
 
 
